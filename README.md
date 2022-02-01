@@ -1,7 +1,7 @@
 # mongoDB-estructura
 
 Los diagramas se han realizado con el programa Moon Modeler.Los scripts los genera el programa automaticamente pero 
-se ha dado formato y corregido algunos detalles utilizando con Visual Studio Code.
+se ha dado formato y corregido algunos detalles utilizando Visual Studio Code.
 
 Aplicaciones usadas:
 
